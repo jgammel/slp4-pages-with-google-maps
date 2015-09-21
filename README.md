@@ -1,6 +1,6 @@
 # slp4-pages-with-google-maps
 Create a custom shortcode within slp-pages to render a dynamic google map on every store page
-<<<<<<< HEAD
+
 
 ## Introduction
 I am not a PHP developer and have limited experience with Wordpress Plugins, so please forgive this messy hack. I can confirm that this solution is working for me on Wordpress version 4.3.1 with SLP4. I hope it works for you as well.
@@ -56,5 +56,4 @@ function process_storepage_map($attributes, $content = null){
 Download my revised version of class.userinterface.php and upload it over what's currently in the slp-pages>include folder.
 
 Use the shortcode `[storepage_map]` in the Store Locator Plus Pages template. 
-=======
->>>>>>> cfc43ded5cd478d0d930e39e78580bc43f51f079
+
