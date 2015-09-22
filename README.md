@@ -15,7 +15,7 @@ Latest versions of Wordpress [no longer support shortcodes with attributes when 
 </iframe>
 ```
 
-What was happened was the shortcodes were rendering as text, instead of as their expected values.
+What was happening was the shortcodes were rendering as text, instead of as their expected values.
 
 
 ## My Solution
